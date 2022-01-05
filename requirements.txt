@@ -12,13 +12,8 @@ gunicorn==19.7.1
 dlib>=19.3.0
 itsdangerous==0.24
 Jinja2==2.9.6
-MarkupSafepy
-olefile
 opencv-python
-Pillow
 python-engineio
 python-socketio
-redis
-six
 Werkzeug
 face_recognition
